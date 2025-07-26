@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    padding-top: 30px;
+    height: fit-content;
+    overflow: hidden;
+}
+
+header > h1{
+    color:white;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+    text-align: center;
+    font-family: 'Passion One', cursive;
+    font-size:6em;
+}
+
+header > p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 0.8em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+a#link_header{
+    color:white;
+    text-decoration:none;
+    font-weight: bold;
+}
+
+a#link_header:hover{
+    text-decoration: underline;
+}
+
+main{
+    background-color: white;
+    margin-top: 3em;
+    line-height: 4.5em;
+}
+
+main > p{
+    font-family: 'Sriracha', cursive;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.fundo_imagem{
+    background-color: white;
+    line-height: 4.5em;
+    background: white center center/cover no-repeat fixed;
+    overflow: hidden;
+}
+
+div#flores{
+    background-image: url(https://professorguanabara.github.io/projeto-cordel/imagens/background001.jpg);
+}
+
+.frente_imagem{
+    background-color: rgba(0, 0, 0, 0.425);
+    padding-left: 0;
+    width: fit-content;
+    margin: 2.5em 50px 2.5em 50px;
+    padding-right: 27px;
+}
+
+.frente_imagem > p{
+    font-family: 'Sriracha', cursive;
+    text-shadow: 1px 1px black;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+div#papel{
+    background-image: url(https://professorguanabara.github.io/projeto-cordel/imagens/background002.jpg);
+}
+
+
+footer{
+    background-color: black;
+    margin-bottom: 0;
+    height: fit-content;
+    padding: 10px
+}
+
+footer>p{
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+}
+
+a#link_footer{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+a#link_footer:hover{
+    text-decoration: underline;
+}
