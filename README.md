@@ -12,7 +12,7 @@ O site contém um cordel feito por [Milton Duarte](https://www.recantodasletras.
 
 ## 📌 Observações
 
-- O site pode ser encontrado no link []()
+- O site pode ser encontrado no link [https://vidmontiene.github.io/site-cordel/](https://vidmontiene.github.io/site-cordel/)
 
 ## 👩‍💻 Autora
 
