@@ -43,12 +43,12 @@ a#link_header:hover{
 main{
     background-color: white;
     margin-top: 3em;
-    line-height: 4.5em;
+    line-height: 4em;
 }
 
 main > p{
     font-family: 'Sriracha', cursive;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     text-align: left;
     margin-left: 50px;
@@ -56,7 +56,7 @@ main > p{
 
 .fundo_imagem{
     background-color: white;
-    line-height: 4.5em;
+    line-height: 4em;
     background: white center center/cover no-repeat fixed;
     overflow: hidden;
 }
@@ -76,7 +76,7 @@ div#flores{
 .frente_imagem > p{
     font-family: 'Sriracha', cursive;
     text-shadow: 1px 1px black;
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
     text-align: left;
     color: white;
